@@ -1,0 +1,6 @@
+read m1,m2
+input m1
+input m2
+m3 = m1+m2
+print m3
+data 5, 7 
